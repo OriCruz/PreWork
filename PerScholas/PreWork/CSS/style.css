@@ -1,0 +1,112 @@
+body{
+		background-color: #ead6a6;
+		font-family: "Comic Sans MS", cursive ;
+	}
+	h1{
+		text-align: center;
+		color: navajowhite;
+		font-stlye: italic;
+		
+	}
+	h2{
+		text-align: center;
+		color: navajowhite;
+		font-stlye: italic;
+
+	}
+	.btn{
+		background-color: navajowhite;
+		color: darkolivegreen;
+		padding: 15px 20px;
+		text-decoration: none;
+		display: inline-block;
+	}
+	.btn:hover{
+		background-color: darkolivegreen;
+		color: navajowhite;
+	}
+	#box1{
+		background-color: #677b60;
+		border: dotted;
+		border-color: #bdb76b;
+		
+	}
+	#intro{
+		font-size: 21px;
+		float: left;
+		position: absolute;
+		display: block;
+		
+	}
+	p{
+		font-size: 21px;
+		color: #677b60;
+		float: left;
+		padding-right: 55%;
+	}
+	#Quotes{
+		font-style: italic;
+		font-family: cursive;
+	}
+	ul{
+		color: #677b60;
+		font-size: 21px;
+		float: left;
+		position: static;
+
+		}
+	#mePic{
+		float: right;
+		width: 50%;
+		position: static;
+	}
+	.clearfix {
+  		overflow: auto;
+	}
+	a {
+		color: purple;
+	}
+	a:visited{
+		color: darkolivegreen;
+	}
+	
+	nav{
+		font-size: 18px;
+		text-align: center;
+	}
+	table, th, td {
+	  border: 1px solid black;
+	  color: #677b60;
+	  font-size: 18px;
+	}
+	th{
+		background-color:#677b60;
+		color: navajowhite;
+	}
+	form{
+		font-size: 20;
+		padding: 18px;
+		font-style: italic;
+		border-style: dotted;
+		background-color:#677b60 ;
+		width: 20%;
+		color: navajowhite;
+		align-text:center;
+	}
+	input[type=button]{
+		color: darkgreen;
+		background-color: #820000;
+		padding: 10px;
+
+	}
+	input[type=button]:hover
+	{
+		background-color:#DCDBD6;
+	}
+	input[type=text]:focus{
+		background-color: #DCDBD6;
+		color: black;
+		trasition:  2s;
+		padding-top: 100px;	
+	}
+
